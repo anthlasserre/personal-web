@@ -99,7 +99,7 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Brittany Chiang</title>
+        <title>Archive | Anthony Lasserre</title>
         <link rel="canonical" href="https://brittanychiang.com/archive" />
       </Helmet>
 
