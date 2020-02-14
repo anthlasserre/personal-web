@@ -1,7 +1,6 @@
 ---
 date: '2018-12-29'
 title: 'L'annexe Bayonne Web'
-github: ''
 external: 'https://lannexebayonne.com/'
 tech:
   - WordPress

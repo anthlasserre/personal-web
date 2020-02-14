@@ -1,7 +1,6 @@
 ---
 date: '2016-12-01'
 title: 'Garage Citroën Capbreton Web'
-github: ''
 external: 'https://garagecitroencapbreton.com/'
 tech:
   - WordPress

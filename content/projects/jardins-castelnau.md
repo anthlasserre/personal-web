@@ -1,7 +1,6 @@
 ---
 date: '2017-12-27'
 title: 'Jardins Castelnau Web'
-github: ''
 external: 'https://les-jardins-de-castelnau.fr/'
 tech:
   - WordPress
