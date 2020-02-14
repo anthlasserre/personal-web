@@ -2,7 +2,6 @@
 date: '2020-01-01'
 title: 'RN Starter'
 github: 'https://github.com/anthlasserre/rn-appstarter'
-external: ''
 tech:
   - React Native
   - Native Base
