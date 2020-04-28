@@ -1,9 +1,10 @@
 ---
-date: '1'
+date: '2'
 title: 'Coach It App'
 cover: './coach-it.png'
 github: 'https://gitlab.com/coach-it/mobile-app'
-external: 'http://www.coachit.me:8080/'
+ios: '#'
+android: '#'
 tech:
   - React Native
   - Native Base

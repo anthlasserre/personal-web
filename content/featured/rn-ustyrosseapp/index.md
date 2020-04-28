@@ -1,9 +1,11 @@
 ---
-date: '3'
+date: '1'
 title: 'US Tyrosse Rugby App'
 cover: './rn-ustyrosseapp.png'
 github: 'https://github.com/anthlasserre/rn-ustyrosseapp'
 external: 'https://ustyrosse.com/'
+ios: 'https://bit.ly/ustyrosseios'
+android: 'https://bit.ly/ustyrosseandroid'
 tech:
   - React Native
   - Native Base

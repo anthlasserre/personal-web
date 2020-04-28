@@ -1,9 +1,11 @@
 ---
-date: '2'
+date: '3'
 title: 'Braderie Hossegor'
 cover: './braderie-hossegor.png'
 github: 'https://gitlab.com/anthlasserre/VentaHossegor'
 external: ''
+ios: '#'
+android: '#'
 tech:
   - React Native
   - Native Base

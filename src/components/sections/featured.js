@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 import sr from '@utils/sr';
 import { srConfig } from '@config';
-import { IconGitHub, IconExternal } from '@components/icons';
+import { IconGitHub, IconExternal, IconIos, IconAndroid } from '@components/icons';
 import styled from 'styled-components';
 import { theme, mixins, media, Section, Heading } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -222,7 +222,7 @@ const Featured = ({ data }) => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover } = frontmatter;
+            const { external, title, tech, github, cover, ios, android } = frontmatter;
 
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
@@ -257,6 +257,24 @@ const Featured = ({ data }) => {
                         rel="nofollow noopener noreferrer"
                         aria-label="GitHub Link">
                         <IconGitHub />
+                      </a>
+                    )}
+                    {ios && (
+                      <a
+                        href={ios}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer"
+                        aria-label="iOS Link">
+                        <IconIos />
+                      </a>
+                    )}
+                    {android && (
+                      <a
+                        href={android}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer"
+                        aria-label="Android Link">
+                        <IconAndroid />
                       </a>
                     )}
                     {external && (

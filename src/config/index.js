@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Anthony Lasserre | Software Engineer',
+  siteTitle: 'Anthony Lasserre | Full Stack Developer',
   siteDescription:
-    'Anthony Lasserre is a software engineer based in Bordeaux, FR who specializes in developing and designing, high-quality websites and applications.',
+    'Anthony Lasserre is a Full Stack Developer based in Bordeaux, FR who specializes in developing and designing, high-quality websites and applications.',
   siteKeywords:
-    'Anthony Lasserre, Anthony, Lasserre, anth.lasserre, software engineer, front-end engineer, web developer, javascript, sud ouest, mobile, applications mobile, bordeaux, bayonne, landes, dax, biarritz, pays basque',
+    'Anthony Lasserre, Anthony, Lasserre, anth.lasserre, anthlasserre, full stack developer, front-end developer, front end developer, back-end developer, back end developer, web developer, javascript, sud ouest, mobile, applications mobile, bordeaux, bayonne, landes, dax, biarritz, pays basque',
   siteUrl: 'https://anthonylasserre.me',
   siteLanguage: 'fr_FR',
   googleAnalyticsID: 'UA-157499679-1',
