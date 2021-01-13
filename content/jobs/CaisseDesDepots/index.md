@@ -3,7 +3,7 @@ date: '2017-09-01'
 title: 'Full Stack JS Developer'
 company: 'Caisse des Dépôts'
 location: 'Bordeaux, FR'
-range: 'Sept 2017 - Present'
+range: 'Sept 2017 - Aug 2020'
 url: 'https://www.caissedesdepots.fr/'
 ---
 
