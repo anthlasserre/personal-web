@@ -2,9 +2,9 @@
 date: '7'
 title: 'Veganland App'
 cover: './rn-veganland-app.jpg'
-ios: '/#soon'
-android: '/#soon'
-external: 'https://www.veganland.io/fr/'
+ios: 'https://apps.apple.com/fr/app/veganland-dating-for-vegans/id1527071850'
+android: 'https://play.google.com/store/apps/details?id=com.veganland.app'
+external: 'https://www.veganland.io/'
 tech:
   - React Native
   - TypeScript
